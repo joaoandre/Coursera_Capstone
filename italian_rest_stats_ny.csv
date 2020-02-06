@@ -1,0 +1,251 @@
+Borough,Neighborhood,ID,Name,Likes,Rating,Tips
+Bronx,Pelham Bay,4b634812f964a520936f2ae3,Vito's Deli,6,6.7,5
+Staten Island,Castleton Corners,4b9a599af964a5201aae35e3,Cucina Mia,5,7.0,3
+Manhattan,Manhattanville,56d8e01d498ef1500ae7fbfe,Fumo,100,9.0,22
+Staten Island,St. George,590928301de7651d663ae087,Marie's 2,9,7.9,2
+Manhattan,Turtle Bay,4b2042fff964a5208f2f24e3,Pietro's,40,8.1,19
+Manhattan,Chelsea,511d6006e4b0a486ec088c89,The Meatball Shop,1005,8.7,191
+Staten Island,Mariner's Harbor,4d51deac3062a1cd37786ba3,Bella Mama Rose Italian Restaurant,6,6.9,10
+Brooklyn,Sheepshead Bay,4ad9fb95f964a520bb1c21e3,Il Fornetto,63,7.5,28
+Manhattan,Murray Hill,59dd1ccaf870fd589f795fca,Vini E Fritti,82,8.6,14
+Queens,Bellerose,4d0ab4386aa05481d5f5e5aa,Arturo's Ristorante Italiano,6,6.0,1
+Queens,Corona,4ea2fc90cc2102b34d3d8dc7,Il Triangolo Ristorante,35,8.8,26
+Queens,Lindenwood,4e6409451495676d566f10b5,Bruno Ristorante Italianio,29,8.6,7
+Staten Island,Arden Heights,50189ccee4b0d35e6d8774f8,Villa Monte's,10,6.9,5
+Staten Island,Grant City,4bc73ff96501c9b696063e29,Little Italy Gourmet,12,7.6,6
+Bronx,Schuylerville,4bb8eb3ecf2fc9b65506a002,Louis Seafood,5,5.8,8
+Bronx,City Island,4514ed4df964a520e5391fe3,Artie's Steak and Seafood,44,8.0,27
+Staten Island,Sunnyside,0,0,0,0.0,0
+Queens,Long Island City,53ed8f36498ea1eca81563c1,Il Falco,38,8.1,15
+Brooklyn,Boerum Hill,4d9f5a9efc4f721e7e5a9d5f,Rucola,861,9.2,234
+Staten Island,New Dorp,4be61580d4f7c9b6fe662620,Brioso,22,7.7,15
+Manhattan,Tudor City,4b2042fff964a5208f2f24e3,Pietro's,40,8.1,19
+Brooklyn,Downtown,4d9f5a9efc4f721e7e5a9d5f,Rucola,861,9.2,234
+Queens,Ravenswood,53a60a88498ef405d8a78217,VITE vinosteria,106,8.8,30
+Bronx,Morris Park,4b47f069f964a5208c4426e3,Pasta Pasta,9,6.7,8
+Brooklyn,North Side,4dcabca41f6e2812677e3598,The Meatball Shop,1335,9.0,374
+Brooklyn,Bay Ridge,4bd075f2caff952145d3cef0,Gino's Restaurant,139,8.5,57
+Queens,Glendale,0,0,0,0.0,0
+Staten Island,Sandy Ground,0,0,0,0.0,0
+Manhattan,West Village,49bd2326f964a5204d541fe3,I Sodi,242,9.2,94
+Queens,Forest Hills Gardens,4ba0203af964a520105c37e3,Portofino Ristorante,58,7.4,38
+Manhattan,Carnegie Hill,4b981d9af964a520802d35e3,Elio's,117,9.0,49
+Manhattan,Hudson Yards,5633bec0498e430fc8ba8f3c,La Vela Dining & Bar,23,8.1,8
+Manhattan,Lower East Side,3fd66200f964a5209de41ee3,Supper,767,8.5,278
+Brooklyn,Fort Greene,4afca48af964a520ab2422e3,Roman’s,287,8.8,116
+Bronx,Belmont,4b5514c4f964a5207cda27e3,Enzo's,43,8.3,19
+Bronx,Westchester Square,51aa5120498ec578a5ad0ac4,The Pines,4,6.7,4
+Bronx,Schuylerville,4c1d717b8b3aa59363a99a5f,Spoto's Italian Restaurant,6,6.8,11
+Bronx,Bronxdale,4b10591af964a5205f6e23e3,Patricia's,84,8.4,39
+Queens,Auburndale,4b96ab2af964a520bfdc34e3,Durso's Pasta & Ravioli Company,27,7.9,15
+Staten Island,Old Town,0,0,0,0.0,0
+Manhattan,Noho,3fd66200f964a520d0e41ee3,Lil' Frankie's,881,9.0,258
+Manhattan,Soho,56d92e05498e6c54b6325b19,San Carlo Osteria Piemonte,104,9.0,41
+Staten Island,New Dorp,4bc73ff96501c9b696063e29,Little Italy Gourmet,12,7.6,6
+Queens,Steinway,4b494398f964a520d96b26e3,Porto Bello Pizza and Restaurant,59,8.3,21
+Manhattan,Soho,579e5513498e9ffc61b6ad8e,Piccola Cucina Enoteca,55,8.9,13
+Brooklyn,Remsen Village,0,0,0,0.0,0
+Staten Island,Grant City,4d7acef35462b60c7c97cbd8,Cucina Fresca,5,7.9,5
+Manhattan,Noho,4d49d00ef53c8cfa78561c47,Gaia Italian Cafe,266,9.1,132
+Staten Island,Great Kills,4cb8efaa90c9a143a5e183d6,Benvenuti Pizzeria e Trattoria,3,5.8,9
+Manhattan,Midtown,3fd66200f964a5209ee81ee3,Carmine’s Italian Restaurant,1596,8.9,553
+Bronx,Country Club,4c9e1ef2542b224b70a3f09f,Lucca Italian Restaurant,7,8.1,4
+Manhattan,Tribeca,4a149749f964a52055781fe3,Locanda Verde,1424,9.2,502
+Queens,Oakland Gardens,4b9c519ef964a520065f36e3,Villa Rustica Ristorante & Pizza,13,7.2,13
+Brooklyn,Carroll Gardens,5766ad56498ebf269c3737d2,Gersi,75,7.9,15
+Brooklyn,Cobble Hill,5bdcfb3e6e69af0025d9e331,The Longshoreman,16,8.5,4
+Queens,Floral Park,4c450fae74ffc928328676cc,Luigi's Restaurant & Bar,79,8.4,34
+Queens,Long Island City,57a13096498e42182b7df641,Oro Restaurant and Lounge,7,6.8,4
+Brooklyn,Georgetown,4c267153b012b71350e30893,Landi's Pork Store,32,8.5,11
+Staten Island,Grasmere,4c2546d5a852c928e5a2e46c,Italianissimo,14,6.5,7
+Staten Island,Richmond Valley,4ba6706af964a520875239e3,Nucci's,29,7.2,7
+Manhattan,Battery Park City,556cb8c6498e751e51fbcf41,Parm,247,8.2,73
+Bronx,Concourse Village,4bfd8d06f61dc9b669309fde,Tiny's Pizza & Pasta,6,6.9,4
+Queens,College Point,0,0,0,0.0,0
+Bronx,Bronxdale,3fd66200f964a5207bf11ee3,F & J Pine Tavern,173,8.8,70
+Brooklyn,Park Slope,44bcb47ef964a5209b351fe3,al di là,559,8.9,193
+Queens,Hunters Point,4f74ff83e4b09b101271b89b,Manducatis,33,7.8,9
+Staten Island,Charleston,0,0,0,0.0,0
+Queens,Bay Terrace,0,0,0,0.0,0
+Bronx,Baychester,4c9518076b35a143d5dc21dc,Fratelli's,22,8.5,6
+Bronx,Concourse Village,5956be26123a195de6701c2b,Porto Salvo,10,8.4,5
+Staten Island,New Brighton,4a271f0cf964a5205c911fe3,Enoteca Maria,92,8.2,40
+Staten Island,Rosebank,4bcc8e3bb6c49c7422ed9391,Tony's Brick Oven Pizzeria,18,7.9,18
+Bronx,Fordham,4c9b9e7b9c663704b90463fd,Gerbasi Ristorante,15,7.5,12
+Brooklyn,Sheepshead Bay,5a10a9d76e465053a63ca8c7,Patrizia’s Of Sheepshead Bay,10,7.7,0
+Staten Island,New Dorp Beach,0,0,0,0.0,0
+Manhattan,Upper East Side,4b3bedfaf964a5209e7e25e3,Antonucci,41,8.5,13
+Queens,Utopia,4b368ed8f964a520f53725e3,Acquista Trattoria,34,7.9,28
+Staten Island,Old Town,4daa28bd93a04642f079c973,Cielo Ristorante,12,6.9,3
+Brooklyn,Brooklyn Heights,3fd66200f964a520ece81ee3,Noodle Pudding,222,8.3,87
+Bronx,Belmont,4acf80aef964a52025d420e3,Tino's Delicatessen,145,9.2,48
+Queens,Whitestone,56071182498e48b25409f3b5,Liola Ristorante,6,7.2,4
+Bronx,Baychester,5411894d498e4a254a11a46c,Olive Garden,26,7.6,8
+Queens,Lefrak City,4ea2fc90cc2102b34d3d8dc7,Il Triangolo Ristorante,35,8.8,26
+Manhattan,Greenwich Village,4cc6222106c25481d7a4a047,Rubirosa Ristorante,2465,9.4,821
+Staten Island,Tottenville,0,0,0,0.0,0
+Queens,Beechhurst,4ce9b1fcfe90a35d7bf2490e,The Clinton Restaurant,16,7.2,6
+Bronx,Fordham,4b5a4c8ff964a52049bb28e3,Emilia's Restaurant,33,8.1,16
+Manhattan,Murray Hill,4ccc32e997d0224bff415eb8,Ai Fiori,461,8.9,176
+Manhattan,East Harlem,3fd66200f964a5207de81ee3,Rao's,73,8.1,33
+Bronx,Schuylerville,4b491198f964a5208f6426e3,Rino's Italian Restaurant,6,6.4,1
+Manhattan,Washington Heights,4d21107c6e8c37042b58ff9f,Saggio Restaurant,118,8.6,62
+Brooklyn,Ocean Parkway,4c0b017aa1b32d7f1d6d9af0,La Palina,34,8.7,18
+Brooklyn,Fulton Ferry,3fd66200f964a520ece81ee3,Noodle Pudding,222,8.3,87
+Bronx,Morris Park,51aa5120498ec578a5ad0ac4,The Pines,4,6.7,4
+Staten Island,Rosebank,4bbb8986e452952190d154a4,Da Noi Fingerboard,20,7.8,6
+Queens,Ravenswood,5aa41faf178a2a08410ce198,Beebe’s,48,8.8,11
+Brooklyn,Fort Greene,4fbabf08e4b0ffe177a56434,Aita,290,8.9,76
+Brooklyn,Fort Hamilton,4b70d8dff964a52063312de3,Tuscany Grill,15,8.0,7
+Brooklyn,Dyker Heights,3fd66200f964a5205fee1ee3,Ponte Vecchio Restaurant,39,7.8,17
+Bronx,Throgs Neck,4b6cb1c0f964a520d04c2ce3,Mamma Lucia's Pizza & Pasta,3,6.4,10
+Bronx,Fordham,59050f51b23dfa5f6649e678,Arthur Avenue Fiasco,10,8.2,4
+Brooklyn,Bensonhurst,4c0791492e80a593eabf75f9,Papa Pasquale,12,8.0,5
+Staten Island,Egbertville,4c27cc8f3492a593cb72b628,Classic Pizza,7,7.5,2
+Brooklyn,Bath Beach,5caa190cf427de002cc9c76f,Olive Garden,3,6.8,3
+Queens,Little Neck,4bae85bef964a52073bc3be3,Il Bacco,63,7.2,20
+Manhattan,Noho,56cf3493cd106ae44d0c76a8,Speedy Romeo LES,291,8.9,80
+Brooklyn,Carroll Gardens,41abb800f964a520561e1fe3,Frankies 457 Spuntino,810,9.3,234
+Manhattan,Greenwich Village,543075b3498e283e38ad9dec,Cotenna,870,9.3,234
+Manhattan,West Village,3fd66200f964a5202de71ee3,Palma,484,9.1,126
+Brooklyn,Starrett City,4b2fd53cf964a520d8f024e3,Olive Garden,147,6.8,53
+Queens,Glen Oaks,4c450fae74ffc928328676cc,Luigi's Restaurant & Bar,79,8.4,34
+Manhattan,East Village,40f1d480f964a520680a1fe3,Hearth,579,8.7,209
+Manhattan,Lower East Side,42893400f964a5206c231fe3,Il Posto Accanto,117,8.6,50
+Manhattan,Greenwich Village,56d92e05498e6c54b6325b19,San Carlo Osteria Piemonte,104,9.0,41
+Staten Island,Castleton Corners,4e35b9daaeb7f67fbd346ef9,Waterfalls,7,5.9,25
+Staten Island,Emerson Hill,0,0,0,0.0,0
+Bronx,Riverdale,55aaee4d498e3cbb70e625d6,Bella Notte Pizzeria,8,6.7,4
+Brooklyn,Prospect Heights,4a85e6c2f964a52093ff1fe3,Cataldo's,59,8.0,46
+Manhattan,Turtle Bay,59dfff99419a9e7fcc5b5fa2,La Pecora Bianca,85,8.4,15
+Queens,Lefrak City,4c50f9ae9d642d7f357fc6dc,Avellino Ristorante & Pizzeria,28,8.3,13
+Brooklyn,Cobble Hill,5a0740a3e1f22816d11723d5,Lillo,45,9.3,9
+Queens,Little Neck,4bd23c50caff95215f71d2f0,Il Toscano,18,7.0,11
+Brooklyn,Manhattan Beach,0,0,0,0.0,0
+Staten Island,Eltingville,5182ef83498e59069ff5e71b,Patrizia's Pizza and Pasta,59,8.1,190
+Staten Island,Dongan Hills,4addf818f964a520de6621e3,Cafe Bella Vita,9,5.8,8
+Queens,Howard Beach,0,0,0,0.0,0
+Queens,East Elmhurst,5480b6d4498e6e352f7a8d3e,Cotto,29,6.2,9
+Manhattan,Civic Center,4ad68c35f964a520c20721e3,Pepolino,165,8.9,114
+Staten Island,New Brighton,4b76d8dbf964a520be632ee3,Pier 76 Italian Restaurant,75,8.5,44
+Bronx,Pelham Parkway,4bf96ae65317a593d837017f,Enzo's,26,8.5,10
+Bronx,City Island,4b80a1c3f964a520488230e3,Portofino Restaurant,10,5.9,10
+Queens,Sunnyside,4ce1741194c3b60c5dc776ea,Dazie's Restaurant,8,6.1,8
+Staten Island,Concord,4b9bdbd8f964a5201e2e36e3,Cafe Luna,14,7.1,7
+Bronx,North Riverdale,4b3bdd2cf964a520f57c25e3,Madison's,11,7.2,4
+Manhattan,Sutton Place,4b575155f964a520073128e3,La Gioconda,35,8.2,12
+Staten Island,Westerleigh,4b8a719df964a520016d32e3,Jimmy Max,49,8.0,15
+Manhattan,Central Harlem,56d8e01d498ef1500ae7fbfe,Fumo,100,9.0,22
+Staten Island,Clifton,4bcc8e3bb6c49c7422ed9391,Tony's Brick Oven Pizzeria,18,7.9,18
+Brooklyn,Windsor Terrace,4d7c069273ca54818e2c577c,Piccoli,10,6.9,13
+Brooklyn,Prospect Lefferts Gardens,4b905bbcf964a5200f8633e3,Gino's Brick Oven Pizza and Trattoria,32,7.6,29
+Staten Island,Randall Manor,4bf872974a67c928b57725cf,Cafe Milano,19,8.1,6
+Staten Island,Tompkinsville,4b76d8dbf964a520be632ee3,Pier 76 Italian Restaurant,75,8.5,44
+Queens,Corona,4b808501f964a5207b7930e3,Park Side,186,8.8,77
+Bronx,Fordham,4af71916f964a520cf0522e3,Michaelangelo's Coal Fired Brick Oven Pizza Restaurant,39,7.9,25
+Manhattan,Gramercy,4b741ab4f964a5202cc82de3,Novità Cucina Creativa,110,8.7,39
+Manhattan,Flatiron,4a8c84daf964a520530e20e3,da Umberto,85,8.8,38
+Staten Island,St. George,0,0,0,0.0,0
+Staten Island,Charleston,0,0,0,0.0,0
+Queens,Douglaston,4c1a9ed0b4e62d7fa119d893,La Grotta di Marcello,7,6.7,3
+Queens,Queensbridge,5aa41faf178a2a08410ce198,Beebe’s,48,8.8,11
+Manhattan,Lincoln Square,54961b98498eccc96c4a93d7,Masseria dei Vini,105,8.7,28
+Brooklyn,Bay Ridge,4ad62c95f964a5208d0521e3,Zio Toto,16,7.1,33
+Bronx,Belmont,4aa425bef964a5208e4520e3,Dominick's Restaurant,101,8.4,37
+Brooklyn,Georgetown,5698109e498eb4e676c57b75,Dolce Vita Restaurant & Bar,6,6.0,2
+Brooklyn,Sheepshead Bay,55466c7e498e28eca31fc3e9,Next Door,17,7.2,4
+Staten Island,Lighthouse Hill,4c27cc8f3492a593cb72b628,Classic Pizza,7,7.5,2
+Brooklyn,Bay Ridge,4a7e205ef964a52012f11fe3,Sofia Restorante Italiano,15,6.9,10
+Queens,Beechhurst,4e22342252b1f82ffba73c1c,due ponti ristorante,7,6.8,9
+Queens,Sunnyside,555d29f7498eb6112f44ecac,SoleLuna,116,9.0,25
+Queens,Sunnyside Gardens,4bc11e07920eb713d6491a2c,Donato's Restaurant,23,7.3,9
+Staten Island,Travis,4ad910d8f964a520b81721e3,Da Noi Restaraunt,13,7.5,6
+Queens,Hillcrest,4b368ed8f964a520f53725e3,Acquista Trattoria,34,7.9,28
+Manhattan,Hudson Yards,4bbb9caaafe1b7139a6b2f4b,Mercato,317,8.2,126
+Staten Island,Dongan Hills,54e13989498ed2a42c122b0f,Mario's,17,8.1,9
+Staten Island,Bay Terrace,0,0,0,0.0,0
+Brooklyn,Manhattan Beach,55466c7e498e28eca31fc3e9,Next Door,17,7.2,4
+Brooklyn,Brooklyn Heights,4be30f9dd27a20a1cd1f915b,River Deli,298,8.9,98
+Staten Island,Lighthouse Hill,5079ccdce4b065f1dd8155ad,Casa verde,8,7.4,3
+Queens,Douglaston,4bc0cad874a9a59398afd0f6,Il Sapore Pizza,6,7.2,4
+Manhattan,Tribeca,4ad68c35f964a520c20721e3,Pepolino,165,8.9,114
+Staten Island,Old Town,4303cf80f964a5201c271fe3,Trattoria Romana,59,8.2,17
+Manhattan,Hudson Yards,505b7061e4b0571999fb3da8,Tavola,257,8.2,70
+Manhattan,Carnegie Hill,4bb4d86886a8d13a83f8de7f,Sfoglia,90,8.2,55
+Brooklyn,Sheepshead Bay,0,0,0,0.0,0
+Brooklyn,Carroll Gardens,4bba7fbe3db7b7131269239a,Verde on Smith,107,7.9,58
+Manhattan,Sutton Place,4f90a618e4b0ead1972c3da6,Tony's Di Napoli,247,8.3,64
+Bronx,Mott Haven,4e6acfb1ae60950955a9b02b,Wish 37,3,6.5,6
+Brooklyn,Prospect Park South,52b90597498ed57b85609429,Lea,116,8.0,33
+Bronx,Fordham,4bb6470cef159c7465b275f7,Calabria Pork Store,28,8.9,13
+Bronx,Pelham Bay,4bc20b8d2a89ef3b6f1af388,Villa Barone Ristorante,15,6.8,12
+Staten Island,Great Kills,517dbe77e4b0eef580c875a3,Piccolino's italian Restaurant,13,7.9,2
+Staten Island,Dongan Hills,4daa28bd93a04642f079c973,Cielo Ristorante,12,6.9,3
+Bronx,Morris Park,4bd1d5fdcaff95211c6ed1f0,900 Park Restaurant,57,7.6,19
+Brooklyn,Ditmas Park,52b90597498ed57b85609429,Lea,116,8.0,33
+Bronx,Edgewater Park,4c1d717b8b3aa59363a99a5f,Spoto's Italian Restaurant,6,6.8,11
+Manhattan,Tribeca,464451e5f964a52076461fe3,Aurora,195,8.6,86
+Manhattan,Yorkville,562c1df4498e2c64fb4a9faa,San Matteo Pizzeria e Cucina,105,8.8,24
+Brooklyn,Windsor Terrace,4a85fd26f964a520f4ff1fe3,Provini,186,9.0,53
+Staten Island,Richmond Town,5079ccdce4b065f1dd8155ad,Casa verde,8,7.4,3
+Queens,Astoria Heights,4f048814f9ab88b0c268dda3,Antonio's Kitchen,15,6.8,12
+Staten Island,Grasmere,4be73347d4f7c9b66c992720,Bocelli,35,8.0,13
+Staten Island,Dongan Hills,53e3fedd498ed822e0283349,Michael's Meatballs & Martinis,22,7.5,7
+Brooklyn,Vinegar Hill,3fd66200f964a520ece81ee3,Noodle Pudding,222,8.3,87
+Manhattan,East Village,3fd66200f964a5204de41ee3,Frank Restaurant,408,8.7,160
+Queens,Richmond Hill,4c93eb6a72dd224be41d9591,Paul Michael Brick Oven Cafe,16,6.9,14
+Brooklyn,Fort Greene,5a00f3538496ca58fd9e2856,Evelina Restaurant,175,9.3,34
+Brooklyn,Bensonhurst,4e30a139483bb3fdc436a7e3,Villa Fiorita,3,7.8,4
+Brooklyn,Dumbo,3fd66200f964a520ece81ee3,Noodle Pudding,222,8.3,87
+Manhattan,Upper West Side,4a7778a1f964a5209be41fe3,Carmine's Italian Restaurant,390,8.2,129
+Bronx,Throgs Neck,4b958fccf964a52091a934e3,Ice House Cafe,11,7.3,14
+Brooklyn,Gravesend,4ad8c329f964a520731421e3,Joe's of Avenue U,35,7.9,27
+Staten Island,Bay Terrace,4cb8efaa90c9a143a5e183d6,Benvenuti Pizzeria e Trattoria,3,5.8,9
+Bronx,Edgewater Park,4b6cb1c0f964a520d04c2ce3,Mamma Lucia's Pizza & Pasta,3,6.4,10
+Manhattan,Yorkville,4b623700f964a520a83c2ae3,Nica Trattoria,29,8.4,19
+Manhattan,Tribeca,54ab15df498ee7d7723bca15,Adoro Lei,111,8.4,20
+Manhattan,West Village,543c7c63498e0a3393da47a2,Via Carota,584,9.3,152
+Brooklyn,East Williamsburg,4a358dfaf964a5202d9d1fe3,Il Passatore,183,8.3,65
+Brooklyn,Prospect Lefferts Gardens,59bfcdfb2079551e2b628d20,Camillo,52,8.4,11
+Bronx,Edgewater Park,4d4456d93616b60c953fe3c2,Tosca Marquee,19,7.0,14
+Staten Island,Charleston,4f5b584da17c35d95157d1ec,Zio Toto - Staten Island,13,7.0,8
+Brooklyn,Sheepshead Bay,4c9e81bb54c8a1cdea8f8e4b,Anthony's Place,28,8.1,10
+Bronx,Morris Park,4bf96ae65317a593d837017f,Enzo's,26,8.5,10
+Queens,Forest Hills,4c8d2ce6f87e224bfb6d3b05,Tuscan Hills,46,7.9,15
+Staten Island,Grasmere,0,0,0,0.0,0
+Staten Island,Dongan Hills,4303cf80f964a5201c271fe3,Trattoria Romana,59,8.2,17
+Brooklyn,Gowanus,49d10b5af964a520545b1fe3,Bar Tano,143,8.0,50
+Manhattan,Gramercy,5cc3adaa838e59002cb4629d,Rezdôra,52,8.6,18
+Staten Island,Richmond Valley,4f5b584da17c35d95157d1ec,Zio Toto - Staten Island,13,7.0,8
+Staten Island,Tottenville,537e9b77498e6816a1f38ca6,Dinico of mulberry,5,6.2,1
+Manhattan,Lenox Hill,51c9e3f9498e2cb9c31d19ff,The Meatball Shop,655,8.6,179
+Staten Island,Great Kills,0,0,0,0.0,0
+Bronx,Pelham Bay,4c9e1ef2542b224b70a3f09f,Lucca Italian Restaurant,7,8.1,4
+Brooklyn,Carroll Gardens,5c034c3ff5e9d7002c2a78b1,FRANKS Wine Bar,41,8.4,8
+Bronx,Fordham,4acf80aef964a52025d420e3,Tino's Delicatessen,145,9.2,48
+Staten Island,Bay Terrace,517dbe77e4b0eef580c875a3,Piccolino's italian Restaurant,13,7.9,2
+Manhattan,West Village,4eb5e354b8f786e2756cb884,The Meatball Shop,1074,9.0,277
+Queens,Ravenswood,49c68eaaf964a5205c571fe3,Vesta Trattoria & Wine Bar,184,9.0,106
+Manhattan,Morningside Heights,4c956003f7cfa1cd2e2ebd15,Bettolona,91,7.9,40
+Queens,Queensbridge,57a13096498e42182b7df641,Oro Restaurant and Lounge,7,6.8,4
+Queens,Whitestone,4ebc34954690a29fd6be2e82,Nonna's Pizzeria and Trattoria,8,7.0,4
+Brooklyn,Clinton Hill,4c2d1eb17d85a593fa1452f3,Dino,221,8.4,95
+Staten Island,Castleton Corners,0,0,0,0.0,0
+Manhattan,Upper West Side,4d68839467a8f04df7ee01be,Osteria Cotta,434,8.4,170
+Manhattan,Manhattanville,3fd66200f964a52006e91ee3,Max SoHa,111,8.0,59
+Staten Island,St. George,4b76d8dbf964a520be632ee3,Pier 76 Italian Restaurant,75,8.5,44
+Queens,Ridgewood,4b89b361f964a520074c32e3,Joe's Restaurant,33,8.2,13
+Manhattan,Morningside Heights,5c5b43f18194fc002c18f606,Fumo,12,8.4,4
+Queens,Hunters Point,556fb3b4498e61f524e70951,Maiella,92,8.8,28
+Manhattan,Morningside Heights,3fd66200f964a52006e91ee3,Max SoHa,111,8.0,59
+Brooklyn,Madison,42508380f964a520c1201fe3,Michael's,56,8.3,10
+Manhattan,Stuyvesant Town,589a66b251666a5ffadde9ea,Fiaschetteria Pistoia,80,8.4,19
+Manhattan,Lenox Hill,56bce4c5498ef768f74f4e6c,Come Prima Ristorante,15,8.5,4
+Staten Island,Concord,4bcf46d4a8b3a593fae6615f,Pastosa Ravioli,31,9.0,8
+Manhattan,Little Italy,49e4f405f964a52078631fe3,Emporio,506,8.9,217
+Manhattan,Lenox Hill,4f90a618e4b0ead1972c3da6,Tony's Di Napoli,247,8.3,64
+Brooklyn,Greenpoint,5424b085498ec9a9cdb44b70,Naked Dog,125,8.6,22
+Staten Island,Clifton,4e179bdc52b123a586ceea11,Bin 5,19,8.1,7
+Brooklyn,Fort Greene,57a3dfc8498e490e4b231778,LaRina Pastificio & Vino,144,9.0,20
+Brooklyn,Gowanus,5c034c3ff5e9d7002c2a78b1,FRANKS Wine Bar,41,8.4,8
+Brooklyn,Ocean Parkway,4c8455bfe602b1f7a28cae7a,Cafe Renaissance,4,5.9,6
